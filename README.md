@@ -1,92 +1,110 @@
-## The World's First Companion AI Technology, Creating an Eternal Memory Ecosystem
+# ZANE Reshapes the Future of AI  
+## The World's First Companion AI Technology  
+### Creating an Eternal Memory Ecosystem and Unlocking a Trillion-Dollar Market
 
 ---
 
-### 1. The Origin of ZANE
+In the wave of the global AI explosion, ZANE takes the lead in innovating companion AI technology. On **July 13, 2025**, ZANE was successfully developed and patented. As one of fewer than 10 global companies working on terminal AI, it pioneers the future of intelligent memory.
 
-In the age of data explosion and AI ubiquity, ZANE redefines human–AI interaction.  
-On **July 13, 2025**, ZANE was successfully developed and patented, marking a global milestone as one of fewer than 10 companies pioneering terminal AI.
+By combining AI chips, multimodal large models, and a full-stack system, ZANE builds the foundation for truly **emotional, memory-based, and autonomous AI** — setting the stage for a trillion-dollar market.
 
-ZANE integrates hardware-level AI memory chips, multimodal LLMs, and full-stack systems to enable:
-- Long-term memory
-- Local data storage
+![Image 1](images1/y1.png)
+
+---
+
+## 1. Memory + Emotion + Autonomy: The Birth of Companion AI
+
+ZANE integrates:
+- Proprietary AI chips
+- Multimodal large language models (LLMs)
+- On-device long-term memory modules
+![Image 2](images1/y2.png)
+Which enables:
+- Emotional interaction
 - Offline operation
-- Autonomous interaction
+- Local storage (privacy-safe)
+- Behavioral learning & evolution
+- Lifelong companionship
 
-> A brain that remembers, a mind that evolves — ZANE is born for companionship.
+ZANE marks the beginning of a **new species of AI**: one that can grow with you.
 
-![Image 1](images/英1.png)
-
----
-
-### 2. AI's New Use Cases
-
-ZANE introduces a new wave of use cases for AI, covering:
-- Smart companions
-- AI doctors
-- AI pets
-- AI home appliances
-- AI toys
-- AI education
-- AI secretaries
-- AI financial assistants
-
-ZANE’s chip+model system allows device-level intelligent interaction, opening the door to truly private, secure, and autonomous AI for everyone.
-
-![Image 2](images/英2.png)
+![Image 3](images1/y3.png)
 
 ---
 
-### 3. RWA-backed Ecosystem Innovation
+## 2. AI's New Use Cases
 
-ZANE collaborates with multiple entities to build a unique **triple-chain RWA system**, supporting:
-- **Data chain**: AI memory and behavioral data on-chain
-- **Value chain**: Tokenized rights and returns
-- **Asset chain**: Real-world store networks as asset anchors
+ZANE opens up broad, real-world applications, including:
+- AI Companions  
+- AI Doctors  
+- AI Pets  
+- AI Education  
+- AI Secretaries  
+- AI Smart Home Devices  
+- AI Financial Advisors  
+- AI Toys
 
-Key achievements:
-- Joint venture with **5 subsidiaries + 3 ecosystem partners + 1 HK-listed entity**
-- **36% equity stake** transferred to Hong Kong’s “All Things Linked” Tech Co.
-- Expected **IPO in 2026** (Hong Kong Main Board)
+It creates the **universal intelligence interface** for the next generation of terminals.
 
----
-
-### 4. $ZANE Token and Economic Model
-
-- Total Supply: **1,000,000,000 $ZANE**
-- Buy-back and Burn: **50% of net revenue**
-- Annual APY: **22%** for holding over 365 days
-- Redemption Channels:  
-  - Store redemption  
-  - DEX/CEX  
-  - Web redemption  
-  - NFT-based benefits  
-  - Ecosystem partner usage  
-  - AI service activation
-
-![Image 3](images/英3.png)
+![Image 4](images1/y4.png)
 
 ---
 
-### 5. 7-Year Plan to Terminal AI Domination
+## 3. RWA-Driven Digital Economy Ecosystem
 
-Milestones:
+ZANE is building a triple-layered **RWA (Real World Asset)** system:
+1. **Data On-chain**: Stores user behavior, memory, interaction history  
+2. **Value On-chain**: Token economic system with staking, rewards, etc.  
+3. **Asset On-chain**: Anchored by 3,500+ global physical retail stores  
+![Image 5](images1/y5.png)
+Strategic ecosystem:
+- 5 wholly-owned subsidiaries  
+- 3 ecosystem companies  
+- 1 Hong Kong corporate entity  
+- 36% equity transferred to “All Things Linked AI Tech (HK)”
+- **IPO expected in 2026 (HK Main Board)**
 
-- **2018-2020**: Core technology incubation
-- **2021-2024**: Full-stack R&D and team expansion
-- **2025**: ZANE officially launched, enters multi-market expansion
-- **2026**: HK Main Board IPO
-- **2027**: Global rollout of terminal AI deployment
-
-![Image 4](images/英4.png)
+![Image 6](images1/y6.png)
 
 ---
 
-### 6. Let’s Build the Future Together
+## 4. $ZANE Token Model
 
-ZANE is actively seeking global investors, partners, and developers.  
-Join us in building the future of private, memory-enabled, and truly intelligent AI.
+- **Total Supply**: 1,000,000,000  
+- **Buyback & Burn**: 50% of platform net revenue  
+- **Staking Yield**: 22% APY (for 365+ day holders)
 
-![Image 5](images/英5.png)
+Redemption Scenarios:
+1. Physical store redemption  
+2. CEX/DEX trading  
+3. Rights redemption (NFTs, licenses)  
+4. Website redemption  
+5. Ecosystem partner usage  
+6. AI service activation
+
+ZANE creates a **real-use token with multi-dimensional value**.
+
+![Image 7](images1/y7.png)
+
+---
+
+## 5. 7-Year Blueprint: From Chip to Global AI Domination
+
+- **2018–2020**: Technical incubation  
+- **2021–2024**: Full-stack system R&D, talent gathering  
+- **2025**: ZANE officially launched  
+- **2026**: Hong Kong IPO  
+- **2027**: Global scale-up, mass commercial deployment
+
+![Image 8](images1/y8.png)
+
+---
+
+## 6. Call for Global Developers, Partners & Investors
+
+ZANE invites partners from around the world to join its AI ecosystem.  
+We aim to build the future of intelligent companionship and create the most trusted, emotional, and memory-powered AI companion in history.
+
+![Image 9](images1/y9.png)
 
 ---
